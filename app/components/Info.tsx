@@ -6,7 +6,7 @@ export default function Info() {
       </p>
 
       <a
-        href="https://github.com/YOUR_USERNAME/YOUR_REPO"
+        href="https://github.com/henryb21"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-500 underline hover:text-blue-700"
